@@ -1,0 +1,5 @@
+numpy
+pytesseract
+cv2
+PIL
+unicodedata
