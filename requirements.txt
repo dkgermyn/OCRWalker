@@ -3,3 +3,6 @@ pytesseract
 cv2
 PIL
 unicodedata
+Jinja2==2.10
+MarkupSafe==1.0
+Pillow==5.1.0
